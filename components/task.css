@@ -1,0 +1,33 @@
+.HeaDer{
+    width: 100%;
+    height: 100px;
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+}
+
+.LoGo{
+    width: 10%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.LoGo > img{
+    width: 100px;
+    height: 100px;
+}
+
+.NaV{
+    width: 50%;
+    height: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.NaVs{
+    text-decoration: none;
+    color: white;
+    font-size: 30px;
+}
